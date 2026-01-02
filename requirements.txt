@@ -1,0 +1,9 @@
+torch
+transformers
+pillow
+numpy
+pandas
+BM25Okapi
+SentenceTransformer
+colpali-engine
+nltk
